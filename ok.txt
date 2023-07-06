@@ -1,0 +1,1 @@
+bash <(wget --no-check-certificate -qO- 'https://raw.githubusercontent.com/MoeClub/Note/master/InstallNET.sh') -d 10 -v 64 -p "2P0NpWJ0lN48l6Em" -port "28818"
